@@ -52,5 +52,5 @@ Everything is translated into code, with a good cup of coffee ☕.
 
 - 📫 How to reach me: angeleslviviana@gmail.com
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: Scarlett Witch is my favorite superhero! 
+- ⚡ Fun fact: Scarlett Witch is my favorite superheroine from Marvel, always WW! 
 
