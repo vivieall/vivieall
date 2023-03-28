@@ -1,5 +1,5 @@
 ## Hi there! 🤓
-I'm Viviana Angeles: software engineer, researcher and content creator.
+I'm Viviana Angeles: software engineer, MBA student. Born in 07/07/97.
 
 Everything is translated into code, with a good cup of coffee ☕.
 
@@ -51,6 +51,6 @@ Everything is translated into code, with a good cup of coffee ☕.
 
 
 - 📫 How to reach me: angeleslviviana@gmail.com
-- 😄 Pronouns: She/Her.
+- 😄 Fav. Number: 7!
 - ⚡ Fun fact: Scarlett Witch is my favorite superheroine from Marvel, always WW! 
 
