@@ -146,7 +146,7 @@ From <img src="https://cdn-icons-png.flaticon.com/512/330/330497.png" width="12"
 
 ## Social Networks
 
-[![LinkedIn Badge](https://img.shields.io/badge/-angeleslviviana-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angeleslviviana)](https://www.linkedin.com/in/angeleslviviana)
+[![LinkedIn Badge](https://img.shields.io/badge/-angelesviviana-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelesviviana)](https://www.linkedin.com/in/angelesviviana)
 [![Twitter Badge](https://img.shields.io/badge/-@vivieal-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vivieal)](https://twitter.com/vivieal)
 [![GitHub Badge](https://img.shields.io/badge/-vivieall-000000?style=flat&labelColor=000000&logo=github&link=https://github.com/vivieall)](https://github.com/vivieall)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCa3xYLgmu4_QwtesWMamWAw)](https://www.youtube.com/channel/UCa3xYLgmu4_QwtesWMamWAw)
