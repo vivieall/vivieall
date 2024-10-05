@@ -132,7 +132,7 @@ From <img src="https://cdn-icons-png.flaticon.com/512/330/330497.png" width="12"
 - 🎨 &nbsp; I love combining software engineering with creative audiovisual projects
 - 📚 &nbsp; Always focusing with business mindset
 - 💬 &nbsp; Ask me about anything tech-related, I am happy to help!
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/angeleslviviana)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/angelesviviana)
 - ⚡ &nbsp; Fun fact: **Scarlett Witch** is my favorite superheroine from Marvel, always WW!
   
 ---
