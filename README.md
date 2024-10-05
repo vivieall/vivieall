@@ -54,7 +54,28 @@ From <img src="https://cdn-icons-png.flaticon.com/512/330/330497.png" width="12"
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
 </p>
 
-### Version control
+### Testing & Quality
+<p>
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img alt="JMeter" src="https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white" />
+  <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+  <img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB3837?style=flat-square&logo=sonarlint&logoColor=white" />
+  
+</p>
+
+### Cloud & Platforms
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+</p>
+ 
+### Version Control
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -67,10 +88,30 @@ From <img src="https://cdn-icons-png.flaticon.com/512/330/330497.png" width="12"
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
 </p>
 
+### Agile Methodologies
+<p>
+  <img alt="Scrum" src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrum&logoColor=white" />
+  <img alt="Kanban" src="https://img.shields.io/badge/-Kanban-0078D7?style=flat-square&logo=kanban&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
+  <img alt="GitHub Projects" src="https://img.shields.io/badge/-GitHub_Projects-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
+</p>
+
+### Design & Documentation Tools
+<p>
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" />
+  <img alt="Balsamiq" src="https://img.shields.io/badge/-Balsamiq-800000?style=flat-square&logo=balsamiq&logoColor=white" />
+  <img alt="UML" src="https://img.shields.io/badge/-UML-007396?style=flat-square&logo=uml&logoColor=white" />
+  <img alt="Lucidchart" src="https://img.shields.io/badge/-Lucidchart-F39422?style=flat-square&logo=lucidchart&logoColor=white" />
+  <img alt="dbdiagram" src="https://img.shields.io/badge/-dbdiagram-0892d0?style=flat-square&logo=dbdiagram&logoColor=white" />
+</p>
+  
 ---
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
