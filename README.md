@@ -1,17 +1,17 @@
 # < Viviana Angeles />
 
-**Senior Software Engineer | MBA <img src="https://cdn-icons-png.flaticon.com/512/5832/5832416.png" width="20"/> | Tech Coach <img src="https://cdn-icons-png.flaticon.com/512/5585/5585472.png" width="20"/> | Fullstack Development <img src="https://cdn-icons-png.flaticon.com/512/4013/4013275.png" width="20"/>**
+**Senior Software Engineer | MBA | Tech Coach | Fullstack Development**
 
 ---
 
 ## About Me
 I am Viviana Angeles, a Senior Software Engineer with over five years of experience in fullstack development, mentoring, and technology coaching. With a solid background in software engineering and an MBA, I specialize in leading development teams, designing scalable solutions, and delivering high-quality software for web and mobile applications.
 
-From <img src="https://cdn-icons-png.flaticon.com/512/330/330497.png" width="12"/> **Peru**, lived in <img src="https://cdn-icons-png.flaticon.com/512/330/330433.png" width="12"/> and <img src="https://cdn-icons-png.flaticon.com/512/330/330508.png" width="12"/>. Everything is translated into code, with a good cup of coffee <img src="https://cdn-icons-png.flaticon.com/512/590/590836.png" width="16"/> .
+From <img src="https://cdn-icons-png.flaticon.com/512/330/330497.png" width="12"/> **Peru**, lived in <img src="https://cdn-icons-png.flaticon.com/512/330/330433.png" width="12"/> and <img src="https://cdn-icons-png.flaticon.com/512/330/330508.png" width="12"/> Everything is translated into code, with a good cup of coffee <img src="https://cdn-icons-png.flaticon.com/512/590/590836.png" width="16"/> .
 
 ---
 
-## Skills
+## Skills  <img src="https://cdn-icons-png.flaticon.com/512/4013/4013275.png" width="16"/>
 
 ### Frontend Development
 <p>
